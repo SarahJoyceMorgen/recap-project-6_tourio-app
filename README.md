@@ -6,9 +6,7 @@ In this project you will build a Tourio App, the best friend of all travelers: i
 
 ### Read Data
 
-- Set up a database; use the [`lib/db.json` file](lib/db.json) to insert sample data.
-- In `pages/api/index.js`, replace the `places` variable imported from `lib/db.js` with a `GET` request from your database.
-- Do the same in `pages/api/[id]/index.js` for the details page.
+- Set up a datnpm
 
 ### Create Form
 
